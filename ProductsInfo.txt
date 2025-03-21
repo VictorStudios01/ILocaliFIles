@@ -1,0 +1,4 @@
+100001,Aire Acondicionado Inverter,1949900
+100002,SmartTV 55pg,2600000
+100003,Computador Gamer,4680000
+100004, Ventilador Pie,210000
