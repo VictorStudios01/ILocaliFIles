@@ -1,4 +1,4 @@
-100001,Aire Acondicionado Inverter,1949900
-100002,SmartTV 55pg,2600000
-100003,Computador Gamer,4680000
-100004, Ventilador Pie,210000
+100001,Aire Acondicionado Inverter,$1.949.900
+100002,SmartTV 55pg,$2.600.000
+100003,Computador Gamer,$4.680.000
+100004,Ventilador Pie,$210.000
